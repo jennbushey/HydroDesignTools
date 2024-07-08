@@ -1,7 +1,12 @@
 Location Number,Peak Discharge,Slope,Location,Type,Road Width,ROW,Curb
-1,10,3.0,test,Road,10.00,15.00,std
-2,10,3.0,test,Road,10.00,15.00,rolled
-3,0.10,3.0,test,Road,10.00,15.00,std
-4,0.10,3.0,test,Road,10.00,15.00,rolled
-5,0.4,1.0,test,Road,10,15,std
-6,0.4,1.0,test,Road,10,15,rolled
+1,10,3.0,Residential,Road,10,15,std
+2,10,3.0,Residential,Road,10,15,rolled
+3,5,2.0,Residential,Road,10,15,std
+4,5,2.0,Residential,Road,10,15,rolled
+5,1,2.0,Residential,Road,10,15,std
+6,1,2.0,Residential,Road,10,15,rolled
+7,0.5,1.0,Residential,Road,10,15,std
+8,0.5,1.0,Residential,Road,10,15,rolled
+9,0.10,3.0,Residential,Road,10,15,std
+10,0.10,3.0,Residential,Road,10,15,rolled
+99,0.5,2.0,Undivided Major,Road,16,10,std
