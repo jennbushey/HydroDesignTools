@@ -9,4 +9,5 @@ Location Number,Peak Discharge,Slope,Location,Type,Road Width,ROW,Curb
 8,0.5,1.0,Residential,Road,10,15,rolled
 9,0.10,3.0,Residential,Road,10,15,std
 10,0.10,3.0,Residential,Road,10,15,rolled
-99,0.5,2.0,Undivided Major,Road,16,10,std
+11,0.5,2.0,Undivided Major,Road,16,10,std
+12,20,2.0,Residential,Road,10,15,std
